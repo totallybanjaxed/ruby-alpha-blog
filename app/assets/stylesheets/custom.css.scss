@@ -1,5 +1,16 @@
 @import "bootstrap";
 #logo {
-    font-size: 4rem;
-    color: green
+    font-size: 2rem;
+}
+
+#home-container {
+    margin-top: 25px;
+}
+
+#home-jumbo {
+    background-image: asset-url('home-jumbo-wdesk.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
 }
